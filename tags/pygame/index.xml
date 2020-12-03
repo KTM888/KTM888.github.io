@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>REST APIs on Miguel Lopez</title>
-    <link>https://ktm888.github.io/tags/rest-apis/</link>
-    <description>Recent content in REST APIs on Miguel Lopez</description>
+    <title>pyGame on Miguel Lopez</title>
+    <link>https://ktm888.github.io/tags/pygame/</link>
+    <description>Recent content in pyGame on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://ktm888.github.io/tags/rest-apis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://ktm888.github.io/tags/pygame/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A ship that Fires Bullets</title>
       <link>https://ktm888.github.io/projects/creations/space-invaders/</link>

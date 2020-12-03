@@ -8,21 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://ktm888.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://ktm888.github.io/projects/creations/bosh-agents/</link>
+      <title>A ship that Fires Bullets</title>
+      <link>https://ktm888.github.io/projects/creations/space-invaders/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://ktm888.github.io/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://ktm888.github.io/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ktm888.github.io/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://ktm888.github.io/projects/creations/space-invaders/</guid>
+      <description>Space invadors (A ship that Fires Bullets) is an open-source game project to help you understand the fundamentals of python programming while you make an interactive game.
+Planning the Project  It is important to plan out each project before you start beginning programming, this is because you will have a better understanding of how your program will look like and also you will manage your time wisely. To do this, you will have to make a description of your program like so;  In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen.</description>
     </item>
     
   </channel>
