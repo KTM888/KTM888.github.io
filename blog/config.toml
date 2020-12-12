@@ -1,0 +1,18 @@
+title = "Miguel's Porfolio"
+baseURL = "miguel-lopez.me"
+PygmentsStyle = "000"
+
+[params]
+lastName = "Lopez"
+handles = []
+phone = "+44 07828388588"
+profileImage = "img/profile2.jpeg"
+favicon = "img/codebloglogo.png"
+address = "London, UK"
+firstName = "Miguel"
+email = "miguelgallego1@outook.com"
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "G-MMFZT5WKK9"
