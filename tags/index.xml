@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miguel Lopez</title>
+    <link>https://ktm888.github.io/tags/</link>
+    <description>Recent content in Tags on Miguel Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://ktm888.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>https://ktm888.github.io/tags/game/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyGame</title>
+      <link>https://ktm888.github.io/tags/pygame/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/pygame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://ktm888.github.io/tags/python/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://ktm888.github.io/tags/rest-apis/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://ktm888.github.io/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://ktm888.github.io/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rewrite</title>
+      <link>https://ktm888.github.io/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://ktm888.github.io/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>https://ktm888.github.io/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
