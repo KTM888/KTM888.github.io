@@ -23,7 +23,7 @@ sitemap:
 [[Behavior Components]]
 [[Variables and Functions]]
 [[Conventions and Syntax]]
-[[IF Statements|C#IFStatements]]
+[[IF Statements]]
 [[Loops]]
 [[Scope and Access Modifiers]]
 [[Awake and Start Functions]]
