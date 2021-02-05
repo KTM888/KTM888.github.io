@@ -4,6 +4,7 @@ PygmentsStyle = "000"
 
 [params]
 lastName = "Lopez"
+showPublications = true
 handles = []
 phone = "+44 07828388588"
 profileImage = "img/profile2.jpeg"
