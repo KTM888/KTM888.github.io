@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://ktm888.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Learning C# Scripting for Unity</title>
+      <link>https://ktm888.github.io/projects/creations/learning-cs/</link>
+      <pubDate>Thu, 08 Aug 2019 14:09:10 +0000</pubDate>
+      
+      <guid>https://ktm888.github.io/projects/creations/learning-cs/</guid>
+      <description>Learning C# scripting for Unity [[Behavior Components]] [[Variables and Functions]] [[Conventions and Syntax]] [[IF Statements|C#IFStatements]] [[Loops]] [[Scope and Access Modifiers]] [[Awake and Start Functions]]
+Behaviour Components Changing Colors by pressing Keys using UnityEngine; using System.Collections; public class ExampleBehaviourScript : MonoBehaviour { void Update() { if (Input.GetKeyDown(KeyCode.R)) { GetComponent&amp;lt;Renderer&amp;gt; ().material.color = Color.red; } if (Input.GetKeyDown(KeyCode.G)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.green; } if (Input.GetKeyDown(KeyCode.B)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.blue; } } }  In example the public class defines a component that can be use globally throughout the code.</description>
+    </item>
+    
+    <item>
       <title>A ship that Fires Bullets</title>
       <link>https://ktm888.github.io/projects/creations/space-invaders/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
