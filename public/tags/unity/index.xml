@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Miguel Lopez</title>
-    <link>https://ktm888.github.io/tags/unity/</link>
+    <link>https://miguel-lopez.me/tags/unity/</link>
     <description>Recent content in Unity on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2019 14:09:10 +0000</lastBuildDate><atom:link href="https://ktm888.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2019 14:09:10 +0000</lastBuildDate><atom:link href="https://miguel-lopez.me/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning C# Scripting for Unity</title>
-      <link>https://ktm888.github.io/projects/creations/learning-cs/</link>
+      <link>https://miguel-lopez.me/projects/creations/learning-cs/</link>
       <pubDate>Thu, 08 Aug 2019 14:09:10 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/projects/creations/learning-cs/</guid>
+      <guid>https://miguel-lopez.me/projects/creations/learning-cs/</guid>
       <description>Learning C# scripting for Unity [[Behavior Components]] [[Variables and Functions]] [[Conventions and Syntax]] [[IF Statements|C#IFStatements]] [[Loops]] [[Scope and Access Modifiers]] [[Awake and Start Functions]]
 Behaviour Components Changing Colors by pressing Keys using UnityEngine; using System.Collections; public class ExampleBehaviourScript : MonoBehaviour { void Update() { if (Input.GetKeyDown(KeyCode.R)) { GetComponent&amp;lt;Renderer&amp;gt; ().material.color = Color.red; } if (Input.GetKeyDown(KeyCode.G)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.green; } if (Input.GetKeyDown(KeyCode.B)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.blue; } } }  In example the public class defines a component that can be use globally throughout the code.</description>
     </item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Miguel Lopez</title>
-    <link>https://miguel-lopez.me/tags/games/</link>
-    <description>Recent content in Games on Miguel Lopez</description>
+    <title>C# on Miguel Lopez</title>
+    <link>https://miguel-lopez.me/tags/c#/</link>
+    <description>Recent content in C# on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2019 14:09:10 +0000</lastBuildDate><atom:link href="https://miguel-lopez.me/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2019 14:09:10 +0000</lastBuildDate><atom:link href="https://miguel-lopez.me/tags/c#/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning C# Scripting for Unity</title>
       <link>https://miguel-lopez.me/projects/creations/learning-cs/</link>
