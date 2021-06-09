@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I am a passionate highly passionate perpetual student in London, aspiring to work in the field of InfoSec. I enjoy messing around with hardware and software to find security vulnerabilities, I also like to compete with others in CTF challenges. The writings samples in this porfolio will show my problem-solving skills and creativity that I have developed over the years.
+I am a Cyber Practioner, currently studying in London, aspiring to work in the field of InfoSec. I enjoy messing around with hardware and software to find and exploit vulnerabilities 😜, and compete with others in CTF challenges. The writings samples in this portfolio will show my progresive lerning skills, creativity and problem-solving that I have developed over the years.
