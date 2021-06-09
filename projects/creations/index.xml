@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on Miguel Lopez</title>
-    <link>https://miguel-lopez.me/projects/creations/</link>
+    <link>https://KTM888.github.io/projects/creations/</link>
     <description>Recent content in Creations on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://miguel-lopez.me/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://KTM888.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning C# Scripting for Unity</title>
-      <link>https://miguel-lopez.me/projects/creations/learning-cs/</link>
+      <link>https://KTM888.github.io/projects/creations/learning-cs/</link>
       <pubDate>Thu, 08 Aug 2019 14:09:10 +0000</pubDate>
       
-      <guid>https://miguel-lopez.me/projects/creations/learning-cs/</guid>
+      <guid>https://KTM888.github.io/projects/creations/learning-cs/</guid>
       <description>Learning C# scripting for Unity [[Behavior Components]] [[Variables and Functions]] [[Conventions and Syntax]] [[IF Statements|C#IFStatements]] [[Loops]] [[Scope and Access Modifiers]] [[Awake and Start Functions]]
 Behaviour Components Changing Colors by pressing Keys using UnityEngine; using System.Collections; public class ExampleBehaviourScript : MonoBehaviour { void Update() { if (Input.GetKeyDown(KeyCode.R)) { GetComponent&amp;lt;Renderer&amp;gt; ().material.color = Color.red; } if (Input.GetKeyDown(KeyCode.G)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.green; } if (Input.GetKeyDown(KeyCode.B)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.blue; } } }  In example the public class defines a component that can be use globally throughout the code.</description>
     </item>
     
     <item>
       <title>A ship that Fires Bullets</title>
-      <link>https://miguel-lopez.me/projects/creations/space-invaders/</link>
+      <link>https://KTM888.github.io/projects/creations/space-invaders/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://miguel-lopez.me/projects/creations/space-invaders/</guid>
+      <guid>https://KTM888.github.io/projects/creations/space-invaders/</guid>
       <description>Space invadors (A ship that Fires Bullets) is an open-source game project to help you understand the fundamentals of python programming while you make an interactive game.
 Planning the Project  It is important to plan out each project before you start beginning programming, this is because you will have a better understanding of how your program will look like and also you will manage your time wisely. To do this, you will have to make a description of your program like so;  In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen.</description>
     </item>
