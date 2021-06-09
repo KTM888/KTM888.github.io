@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Miguel Lopez</title>
-    <link>https://ktm888.github.io/</link>
+    <link>https://KTM888.github.io/</link>
     <description>Recent content in Home on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://ktm888.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://KTM888.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://ktm888.github.io/about/</link>
+      <link>https://KTM888.github.io/about/</link>
       <pubDate>Sun, 25 Oct 2020 15:51:33 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/about/</guid>
+      <guid>https://KTM888.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireshark Turorial - Customising Columns and Layout for productivity</title>
-      <link>https://ktm888.github.io/blog/wireshark-tutorial/</link>
+      <link>https://KTM888.github.io/blog/wireshark-tutorial/</link>
       <pubDate>Sun, 08 Sep 2019 14:09:10 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/blog/wireshark-tutorial/</guid>
+      <guid>https://KTM888.github.io/blog/wireshark-tutorial/</guid>
       <description>Intro This a tutorial of wireshark (an open-source packet analyzer) that will teach you how to customize the layout and columns of the GUI interface to optimize your productivity while learning how to navegate through it properly and effectively.
 Web Traffic and the Default Wireshark Column Display Malware distribution frequently occurs through web traffic, and we also see this channel used for data exfiltration and command and control activity. Wireshark’s default column is not ideal when investigating such malware-based infection traffic.</description>
     </item>
     
     <item>
       <title>Learning C# Scripting for Unity</title>
-      <link>https://ktm888.github.io/projects/creations/learning-cs/</link>
+      <link>https://KTM888.github.io/projects/creations/learning-cs/</link>
       <pubDate>Thu, 08 Aug 2019 14:09:10 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/projects/creations/learning-cs/</guid>
+      <guid>https://KTM888.github.io/projects/creations/learning-cs/</guid>
       <description>Learning C# scripting for Unity [[Behavior Components]] [[Variables and Functions]] [[Conventions and Syntax]] [[IF Statements|C#IFStatements]] [[Loops]] [[Scope and Access Modifiers]] [[Awake and Start Functions]]
 Behaviour Components Changing Colors by pressing Keys using UnityEngine; using System.Collections; public class ExampleBehaviourScript : MonoBehaviour { void Update() { if (Input.GetKeyDown(KeyCode.R)) { GetComponent&amp;lt;Renderer&amp;gt; ().material.color = Color.red; } if (Input.GetKeyDown(KeyCode.G)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.green; } if (Input.GetKeyDown(KeyCode.B)) { GetComponent&amp;lt;Renderer&amp;gt;().material.color = Color.blue; } } }  In example the public class defines a component that can be use globally throughout the code.</description>
     </item>
     
     <item>
       <title>Forcing Visits to use SSL</title>
-      <link>https://ktm888.github.io/blog/force-ssl/</link>
+      <link>https://KTM888.github.io/blog/force-ssl/</link>
       <pubDate>Tue, 01 Jan 2019 14:09:10 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/blog/force-ssl/</guid>
+      <guid>https://KTM888.github.io/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
  First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>
       <title>A ship that Fires Bullets</title>
-      <link>https://ktm888.github.io/projects/creations/space-invaders/</link>
+      <link>https://KTM888.github.io/projects/creations/space-invaders/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://ktm888.github.io/projects/creations/space-invaders/</guid>
+      <guid>https://KTM888.github.io/projects/creations/space-invaders/</guid>
       <description>Space invadors (A ship that Fires Bullets) is an open-source game project to help you understand the fundamentals of python programming while you make an interactive game.
 Planning the Project  It is important to plan out each project before you start beginning programming, this is because you will have a better understanding of how your program will look like and also you will manage your time wisely. To do this, you will have to make a description of your program like so;  In Alien Invasion, the player controls a rocket ship that appears at the bottom center of the screen.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://ktm888.github.io/search/</link>
+      <link>https://KTM888.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ktm888.github.io/search/</guid>
+      <guid>https://KTM888.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
