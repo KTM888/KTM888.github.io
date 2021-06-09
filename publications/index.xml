@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Miguel Lopez</title>
-    <link>https://KTM888.github.io/publications/</link>
+    <link>https://miguel-lopez.me/publications/</link>
     <description>Recent content in Publications on Miguel Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://KTM888.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://miguel-lopez.me/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
